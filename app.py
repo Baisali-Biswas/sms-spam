@@ -4,7 +4,7 @@ import string
 from nltk.corpus import stopwords
 import nltk
 from nltk.stem.porter import PorterStemmer
-nltk.download('punk')
+nltk.download('punkt')
 nltk.download('corpus')
 nltk.download('stopwords')
 
